@@ -1,5 +1,5 @@
 ### Hi. Im Jay 😀 
-I'm a current Computer Science student at Clemson University by day and an avid programmer by night. 
+I'm a Senior Computer Science student at Clemson University by day and an avid programmer by night. 
 
 Current admin of the ClemsonCPSC Discord bot project https://github.com/ClemsonCPSC-Discord/ClemBot. 
 <!--
