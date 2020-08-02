@@ -1,7 +1,7 @@
 ### Hi. Im Jay 😀 
 I'm a Senior Computer Science student at Clemson University by day and an avid programmer by night. 
 
-Current admin of the ClemsonCPSC Discord bot project https://github.com/ClemsonCPSC-Discord/ClemBot. 
+Current admin of the ClemsonCPSC Discord Server and lead maintainer on the ClemBot project https://github.com/ClemsonCPSC-Discord/ClemBot. 
 <!--
 **Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
