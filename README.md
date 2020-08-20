@@ -5,7 +5,8 @@ Current admin of the ClemsonCPSC Discord Server and lead maintainer on the ClemB
 <!--
 **Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Jay-Madden&count_private=true&show_icons=true&include_all_commits=true)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
