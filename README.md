@@ -4,6 +4,7 @@ I'm a Senior Computer Science student at Clemson University by day and an avid p
 Current admin of the ClemsonCPSC Discord Server and lead maintainer on the ClemBot project https://github.com/ClemsonCPSC-Discord/ClemBot. 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jay-Madden&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Madden&hide=TeX&layout=compact)
 
 <!--
 **Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
