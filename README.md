@@ -1,6 +1,3 @@
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->   
 
 <b> <u>
   <h1> <samp>
@@ -40,15 +37,6 @@
   </p>
 </details>
 <details align="center">
-<summary> <b> <samp> Current Activity </samp></b></summary>
-  <p align="left">
-    <samp>
-      <!--START_SECTION:activity-->
-
-      <!--END_SECTION:activity-->      
-    </samp>
-   </p>
- </details>
   <summary> <b> <samp> Github Stats </samp></b></summary>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Jay-Madden&count_private=true&show_icons=true&include_all_commits=true">
@@ -60,6 +48,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Madden&hide=TeX&layout=compact">
    </p>
  </details>
+ 
+ ## Current Activity
+ 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->   
+
 <!--
 **Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
