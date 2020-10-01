@@ -1,3 +1,7 @@
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->   
+
 <b> <u>
   <h1> <samp>
       Hi there 👋 Im Jay, welcome to my Github 😀 
