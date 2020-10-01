@@ -16,10 +16,10 @@
  </p>
 <p align="center">
   <a href="https://discord.gg/QNRbC6k">
-    <img src="https://discordapp.com/api/guilds/386585461285715968/widget.png?style=banner4" alt="Discord Banner 4"/>
+    <img src="https://discordapp.com/api/guilds/386585461285715968/widget.png?style=banner4" alt="Discord Banner 4" align="left"/>
   </a>
 </p>  
-
+<br> 
 <p align="center">
   <details align="center" open>
     <summary><samp><b> 🚀 My Languages </b> </samp> </summary>
@@ -28,7 +28,7 @@
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg' alt='Swift' width='50'/>
   </details>
     <details align="center" open>
-    <summary><samp> <b>⚡️ My Languages </b> </samp> </summary>
+    <summary><samp> <b>⚡️ My Stacks </b> </samp> </summary>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg' alt='Docker' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg' alt='AWS' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg' alt='Git' width='50'/>
@@ -36,6 +36,9 @@
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg' alt='Vue' width='50'/>
   </details>
 </p>
+<br>
+<br>
+<br>
 <details align="center" open>
     <summary> <b> <samp>Current projects </samp></b></summary>
   <p>
