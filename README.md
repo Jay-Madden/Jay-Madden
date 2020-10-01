@@ -61,7 +61,7 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Jay-Madden&count_private=true&show_icons=true&include_all_commits=true">
    </p>
- </details>f
+ </details>
  <details align="center">
   <summary> <b> <samp>🗣 Language Stats </samp></b></summary>
   <p>
