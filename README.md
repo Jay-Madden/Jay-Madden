@@ -14,7 +14,9 @@
   </samp>
  </p>
 <p align="center">
+  <a href="https://discord.gg/QNRbC6k">
   <img src="https://discordapp.com/api/guilds/386585461285715968/widget.png?style=banner4" alt="Discord Banner 4"/>
+   </a>
 </p>
 <details align="center" open>
     <summary> <b> <samp> Current projects </samp></b></summary>
