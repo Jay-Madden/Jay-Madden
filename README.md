@@ -36,6 +36,15 @@
   </p>
 </details>
 <details align="center">
+<summary> <b> <samp> Current Activity </samp></b></summary>
+  <p align="left">
+    <samp>
+      <!--START_SECTION:activity-->
+
+      <!--END_SECTION:activity-->      
+    </samp>
+   </p>
+ </details>
   <summary> <b> <samp> Github Stats </samp></b></summary>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Jay-Madden&count_private=true&show_icons=true&include_all_commits=true">
