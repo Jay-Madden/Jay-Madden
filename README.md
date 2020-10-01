@@ -28,8 +28,8 @@
     <a style="text-decoration: none" align="left" href="https://github.com/Jay-Madden/ProductivityTrack">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Madden&repo=ProductivityTrack&show_owner=true" />
     </a>
-    <a style="text-decoration: none" align="left" href="https://github.com/Dotnet/Roslyn">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dotnet&repo=Roslyn&show_owner=false" />
+    <a style="text-decoration: none" align="left" href="https://github.com/Dotnet/csharplang">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dotnet&repo=csharplang&show_owner=false" />
     </a>
   </p>
 </details>
