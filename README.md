@@ -1,7 +1,7 @@
 
 <b> <u>
   <h1> <samp>
-      Hi there 👋 Im Jay, welcome to my Github 😀 
+      Hi there 👋 Im Jay, Welcome to my Github 😀 
     </samp>
   </h1>
 </u> </b>
