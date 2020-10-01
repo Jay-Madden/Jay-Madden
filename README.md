@@ -28,7 +28,7 @@
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg' alt='Swift' width='50'/>
   </details>
     <details align="center" open>
-    <summary><samp> <b>⚡️ My Stacks </b> </samp> </summary>
+    <summary><samp> <b>⚡️ My Skills </b> </samp> </summary>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg' alt='Docker' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg' alt='AWS' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg' alt='Git' width='50'/>
