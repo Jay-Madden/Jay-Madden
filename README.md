@@ -40,7 +40,7 @@
 <br>
 <br>
 <details align="center" open>
-    <summary> <b> <samp>Current projects </samp></b></summary>
+    <summary> <b> <samp>🔨 Current projects </samp></b></summary>
   <p>
     <a style="text-decoration: none" align="left" href="https://github.com/ClemsonCPSC-Discord/ClemBot">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClemsonCPSC-Discord&repo=ClemBot&show_owner=false" />
@@ -57,13 +57,13 @@
   </p>
 </details>
 <details align="center">
-  <summary> <b> <samp>Github Stats </samp></b></summary>
+  <summary> <b> <samp>🧮 Github Stats </samp></b></summary>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Jay-Madden&count_private=true&show_icons=true&include_all_commits=true">
    </p>
  </details>f
  <details align="center">
-  <summary> <b> <samp> Language Stats </samp></b></summary>
+  <summary> <b> <samp>🗣 Language Stats </samp></b></summary>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Madden&hide=TeX&layout=compact">
    </p>
