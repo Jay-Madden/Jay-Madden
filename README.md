@@ -72,11 +72,9 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->   
 
-<!--
-**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
