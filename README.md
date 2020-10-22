@@ -72,6 +72,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#195](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/195) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+2. 🗣 Commented on [#195](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/195) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+3. 🗣 Commented on [#199](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/199) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+4. 🎉 Merged PR [#197](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/197) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+5. 🎉 Merged PR [#196](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/196) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
