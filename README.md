@@ -46,8 +46,8 @@
     <a style="text-decoration: none" align="left" href="https://github.com/ClemsonCPSC-Discord/ClemBot">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClemsonCPSC-Discord&repo=ClemBot&show_owner=false" />
     </a>
-    <a style="text-decoration: none" align="left" href="https://github.com/Jay-Madden/NBAStatsScraper">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Madden&repo=NBAStatsScraper&show_owner=true" />
+    <a style="text-decoration: none" align="left" href="https://github.com/Jay-Madden/Group10">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Madden&repo=Group10&show_owner=true" />
     </a>
     <a style="text-decoration: none" align="left" href="https://github.com/Jay-Madden/ProductivityTrack">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Madden&repo=ProductivityTrack&show_owner=true" />
