@@ -7,11 +7,11 @@
 </u> </b>
 <p>
   <samp>
-   I'm a Senior Computer Science student at Clemson University by day and an avid programmer by night. If im not in the gym, I enjoy spending my free time tutoring others in a wide range of programming topics including Git/Github, Async/Await, Compiler/Language design, correct software practices and more. 
+   I'm a Senior Computer Science student at Clemson University by day, and an avid programmer by night. If I'm not in the gym, I enjoy spending my free time tutoring others in a wide range of programming topics including Git/Github, Async/Await, Compiler/Language design, correct software practices and more. 
     <br><br>
   </samp>
   <samp>
-  Current admin of the ClemsonCPSC Discord Server and lead maintainer on the ClemBot project https://github.com/ClemsonCPSC-Discord/ClemBot. A discord bot built to make managing any server easy and pain free. WIth a variety of both useful and fun commands to make a server come to life.  
+  Current admin of the ClemsonCPSC Discord Server and lead maintainer on the ClemBot project https://github.com/ClemsonCPSC-Discord/ClemBot. A discord bot built to make managing any server easy and pain free. With a variety of both useful and fun commands to make a server come to life.  
   </samp>
  </p>
 <p align="center">
