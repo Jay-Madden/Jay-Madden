@@ -7,7 +7,7 @@
 </u> </b>
 <p>
   <samp>
-   I'm a Senior Computer Science student at Clemson University by day, and an avid programmer by night. If I'm not in the gym, I enjoy spending my free time tutoring others in a wide range of programming topics including Git/Github, Async/Await, Compiler/Language design, correct software practices and more. 
+   I'm a Computer Science Graduate from Clemson University by day, and an avid programmer by night. If I'm not in the gym, I enjoy spending my free time tutoring others in a wide range of programming topics including Git/Github, Async/Await, Compiler/Language design, correct software practices and more. 
     <br><br>
   </samp>
   <samp>
