@@ -73,10 +73,10 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#258](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/258) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-2. 🗣 Commented on [#256](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/256) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-3. ❗️ Closed issue [#257](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/257) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-4. 🗣 Commented on [#257](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/257) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+1. ❗️ Opened issue [#259](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/259) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+2. 🗣 Commented on [#258](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/258) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+3. 🗣 Commented on [#256](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/256) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+4. ❗️ Closed issue [#257](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/257) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
 5. 🗣 Commented on [#257](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/257) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
 <!--END_SECTION:activity-->   
 
