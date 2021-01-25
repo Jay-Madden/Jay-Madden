@@ -53,7 +53,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Madden&repo=ProductivityTrack&show_owner=true" />
     </a>
     <a style="text-decoration: none" align="left" href="https://github.com/Jay-Madden/SharpLox">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Madden&repo=SharpLox&show_owner=false" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Madden&repo=SharpLox&show_owner=true" />
     </a>
   </p>
 </details>
