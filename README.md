@@ -7,7 +7,7 @@
 </u> </b>
 <p>
   <samp>
-   I'm a Computer Science Graduate from Clemson University and Current Software Engineer by day, and an avid sleeper by night. If I'm not in the gym, I enjoy spending my free time tutoring others in a wide range of programming topics including Git/Github, Async/Await, Compiler/Language design, correct software practices and more. 
+   I'm a Computer Science Graduate from Clemson University and current Software Engineer by day, and an avid sleeper by night. If I'm not in the gym, I enjoy spending my free time tutoring others in a wide range of programming topics including Git/Github, Async/Await, Compiler/Language design, correct software practices and more. 
     <br><br>
   </samp>
   <samp>
