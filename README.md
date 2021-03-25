@@ -73,11 +73,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#294](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/294) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-2. 🗣 Commented on [#303](https://github.com/Azure/azure-functions-dotnet-worker/issues/303) in [Azure/azure-functions-dotnet-worker](https://github.com/Azure/azure-functions-dotnet-worker)
+1. 🗣 Commented on [#295](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/295) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+2. 🎉 Merged PR [#294](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/294) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
 3. 🗣 Commented on [#303](https://github.com/Azure/azure-functions-dotnet-worker/issues/303) in [Azure/azure-functions-dotnet-worker](https://github.com/Azure/azure-functions-dotnet-worker)
-4. ❗️ Opened issue [#303](https://github.com/Azure/azure-functions-dotnet-worker/issues/303) in [Azure/azure-functions-dotnet-worker](https://github.com/Azure/azure-functions-dotnet-worker)
-5. ❗️ Opened issue [#2683](https://github.com/Azure/azure-webjobs-sdk/issues/2683) in [Azure/azure-webjobs-sdk](https://github.com/Azure/azure-webjobs-sdk)
+4. 🗣 Commented on [#303](https://github.com/Azure/azure-functions-dotnet-worker/issues/303) in [Azure/azure-functions-dotnet-worker](https://github.com/Azure/azure-functions-dotnet-worker)
+5. ❗️ Opened issue [#303](https://github.com/Azure/azure-functions-dotnet-worker/issues/303) in [Azure/azure-functions-dotnet-worker](https://github.com/Azure/azure-functions-dotnet-worker)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
