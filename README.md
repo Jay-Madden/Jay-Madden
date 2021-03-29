@@ -73,11 +73,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#733](https://github.com/discord-csharp/MODiX/issues/733) in [discord-csharp/MODiX](https://github.com/discord-csharp/MODiX)
-2. 🗣 Commented on [#295](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/295) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-3. 🎉 Merged PR [#294](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/294) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-4. 🗣 Commented on [#303](https://github.com/Azure/azure-functions-dotnet-worker/issues/303) in [Azure/azure-functions-dotnet-worker](https://github.com/Azure/azure-functions-dotnet-worker)
-5. 🗣 Commented on [#303](https://github.com/Azure/azure-functions-dotnet-worker/issues/303) in [Azure/azure-functions-dotnet-worker](https://github.com/Azure/azure-functions-dotnet-worker)
+1. 🎉 Merged PR [#301](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/301) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+2. 💪 Opened PR [#301](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/301) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+3. 🎉 Merged PR [#300](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/300) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+4. 💪 Opened PR [#300](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/300) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+5. 🎉 Merged PR [#291](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/291) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
