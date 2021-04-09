@@ -73,11 +73,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#866](https://github.com/discord-csharp/MODiX/issues/866) in [discord-csharp/MODiX](https://github.com/discord-csharp/MODiX)
-2. 🎉 Merged PR [#310](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/310) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-3. 🗣 Commented on [#309](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/309) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-4. 🗣 Commented on [#306](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/306) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-5. 🗣 Commented on [#306](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/306) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+1. ❗️ Opened issue [#11266](https://github.com/terraform-providers/terraform-provider-azurerm/issues/11266) in [terraform-providers/terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
+2. 🎉 Merged PR [#293](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/293) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+3. ❌ Reopened PR [#293](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/293) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+4. ❌ Closed PR [#293](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/293) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+5. 🗣 Commented on [#866](https://github.com/discord-csharp/MODiX/issues/866) in [discord-csharp/MODiX](https://github.com/discord-csharp/MODiX)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
