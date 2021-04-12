@@ -74,10 +74,10 @@
  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#315](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/315) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-2. ❗️ Closed issue [#285](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/285) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-3. ❗️ Closed issue [#256](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/256) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-4. 🗣 Commented on [#311](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/311) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-5. 🗣 Commented on [#315](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/315) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+2. 🗣 Commented on [#315](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/315) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+3. ❗️ Closed issue [#285](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/285) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+4. ❗️ Closed issue [#256](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/256) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+5. 🗣 Commented on [#311](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/311) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
