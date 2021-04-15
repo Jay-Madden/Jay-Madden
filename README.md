@@ -73,10 +73,10 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#224](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/224) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-2. 🗣 Commented on [#317](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/317) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-3. 🗣 Commented on [#317](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/317) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-4. 🗣 Commented on [#317](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/317) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+1. 🎉 Merged PR [#319](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/319) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+2. 🎉 Merged PR [#292](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/292) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+3. 🗣 Commented on [#292](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/292) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+4. 🗣 Commented on [#224](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/224) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
 5. 🗣 Commented on [#317](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/317) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
 <!--END_SECTION:activity-->   
 
