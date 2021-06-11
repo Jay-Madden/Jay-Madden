@@ -73,11 +73,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#360](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/360) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-2. 💪 Opened PR [#360](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/360) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-3. 🎉 Merged PR [#353](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/353) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-4. 🗣 Commented on [#356](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/356) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-5. 🗣 Commented on [#1657](https://github.com/Azure/Azure-Functions/issues/1657) in [Azure/Azure-Functions](https://github.com/Azure/Azure-Functions)
+1. 🎉 Merged PR [#364](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/364) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+2. 💪 Opened PR [#364](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/364) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+3. ❗️ Opened issue [#363](https://github.com/ClemsonCPSC-Discord/ClemBot/issues/363) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+4. 🎉 Merged PR [#360](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/360) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+5. 💪 Opened PR [#360](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/360) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
