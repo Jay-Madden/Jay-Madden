@@ -43,7 +43,7 @@
 <details align="center" open>
     <summary> <b> <samp>🔨 Current projects </samp></b></summary>
   <p>
-    <a style="text-decoration: none" align="left" href="https://github.com/ClemsonCPSC-Discord/ClemBot">
+    <a style="text-decoration: none" align="left" href="https://github.com/ClemBotProject/ClemBot">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClemsonCPSC-Discord&repo=ClemBot&show_owner=false" />
     </a>
     <a style="text-decoration: none" align="left" href="https://github.com/Jay-Madden/Group10">
