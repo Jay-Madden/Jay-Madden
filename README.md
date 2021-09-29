@@ -11,7 +11,7 @@
     <br><br>
   </samp>
   <samp>
-  Current admin of the ClemsonCPSC Discord Server and lead maintainer on the ClemBot project https://github.com/ClemBotProject/ClemBot. A discord bot built to make managing any server easy and pain free. With a variety of both useful and fun commands to make a server come to life.  
+  Current lead maintainer on the ClemBot project https://github.com/ClemBotProject/ClemBot. A discord bot built to make managing any server easy and pain free. With a variety of both useful and fun commands to make a server come to life.  
   </samp>
  </p>
 <p align="center">
