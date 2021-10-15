@@ -73,11 +73,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1376](https://github.com/dotnet/format/pull/1376) in [dotnet/format](https://github.com/dotnet/format)
-2. 💪 Opened PR [#41](https://github.com/ktrinkle/geek_off_angular/pull/41) in [ktrinkle/geek_off_angular](https://github.com/ktrinkle/geek_off_angular)
-3. ❗️ Closed issue [#61](https://github.com/ClemBotProject/ClemBot/issues/61) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-4. 🗣 Commented on [#61](https://github.com/ClemBotProject/ClemBot/issues/61) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-5. 🎉 Merged PR [#427](https://github.com/ClemBotProject/ClemBot/pull/427) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+1. 💪 Opened PR [#62](https://github.com/ktrinkle/geek_off_angular/pull/62) in [ktrinkle/geek_off_angular](https://github.com/ktrinkle/geek_off_angular)
+2. 💪 Opened PR [#1376](https://github.com/dotnet/format/pull/1376) in [dotnet/format](https://github.com/dotnet/format)
+3. 💪 Opened PR [#41](https://github.com/ktrinkle/geek_off_angular/pull/41) in [ktrinkle/geek_off_angular](https://github.com/ktrinkle/geek_off_angular)
+4. ❗️ Closed issue [#61](https://github.com/ClemBotProject/ClemBot/issues/61) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+5. 🗣 Commented on [#61](https://github.com/ClemBotProject/ClemBot/issues/61) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
