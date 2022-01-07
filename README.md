@@ -73,10 +73,10 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#544](https://github.com/ClemBotProject/ClemBot/issues/544) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-2. 🗣 Commented on [#545](https://github.com/ClemBotProject/ClemBot/issues/545) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-3. 🗣 Commented on [#541](https://github.com/ClemBotProject/ClemBot/issues/541) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-4. 🗣 Commented on [#542](https://github.com/ClemBotProject/ClemBot/issues/542) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+1. 🎉 Merged PR [#547](https://github.com/ClemBotProject/ClemBot/pull/547) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+2. 💪 Opened PR [#547](https://github.com/ClemBotProject/ClemBot/pull/547) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+3. 🗣 Commented on [#544](https://github.com/ClemBotProject/ClemBot/issues/544) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+4. 🗣 Commented on [#545](https://github.com/ClemBotProject/ClemBot/issues/545) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
 5. 🗣 Commented on [#541](https://github.com/ClemBotProject/ClemBot/issues/541) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
 <!--END_SECTION:activity-->   
 
