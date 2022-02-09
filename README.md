@@ -73,11 +73,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#584](https://github.com/ClemBotProject/ClemBot/issues/584) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-2. 🎉 Merged PR [#583](https://github.com/ClemBotProject/ClemBot/pull/583) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-3. 💪 Opened PR [#583](https://github.com/ClemBotProject/ClemBot/pull/583) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-4. 🎉 Merged PR [#582](https://github.com/ClemBotProject/ClemBot/pull/582) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-5. 💪 Opened PR [#582](https://github.com/ClemBotProject/ClemBot/pull/582) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+1. ❗️ Opened issue [#588](https://github.com/ClemBotProject/ClemBot/issues/588) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+2. 🗣 Commented on [#538](https://github.com/ClemBotProject/ClemBot/issues/538) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+3. 🗣 Commented on [#543](https://github.com/ClemBotProject/ClemBot/issues/543) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+4. 🗣 Commented on [#587](https://github.com/ClemBotProject/ClemBot/issues/587) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+5. 🗣 Commented on [#587](https://github.com/ClemBotProject/ClemBot/issues/587) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
