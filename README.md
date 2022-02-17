@@ -25,7 +25,7 @@
     <summary><samp><b> 🚀 My Languages </b> </samp> </summary>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg' alt='C#' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='Python' width='50'/>
-  <img src = 'https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg' alt='C++' width='50'/>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' alt='ts' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' alt='C++' width='50'/>
   </details>
     <details align="center" open>
