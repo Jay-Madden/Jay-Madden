@@ -32,6 +32,7 @@
     <summary><samp> <b>⚡️ My Skills </b> </samp> </summary>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg' alt='Docker' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg' alt='AWS' width='50'/>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg' alt='Azure' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg' alt='Git' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg' alt='Vim' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg' alt='Vue' width='50'/>
