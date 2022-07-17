@@ -74,11 +74,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#679](https://github.com/ClemBotProject/ClemBot/pull/679) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-2. 🗣 Commented on [#83871](https://github.com/rust-lang/rust/issues/83871) in [rust-lang/rust](https://github.com/rust-lang/rust)
-3. 🎉 Merged PR [#685](https://github.com/ClemBotProject/ClemBot/pull/685) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-4. 💪 Opened PR [#685](https://github.com/ClemBotProject/ClemBot/pull/685) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-5. 🎉 Merged PR [#683](https://github.com/ClemBotProject/ClemBot/pull/683) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+1. 🎉 Merged PR [#680](https://github.com/ClemBotProject/ClemBot/pull/680) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+2. ❗️ Closed issue [#646](https://github.com/ClemBotProject/ClemBot/issues/646) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+3. 🎉 Merged PR [#679](https://github.com/ClemBotProject/ClemBot/pull/679) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+4. 🗣 Commented on [#83871](https://github.com/rust-lang/rust/issues/83871) in [rust-lang/rust](https://github.com/rust-lang/rust)
+5. 🎉 Merged PR [#685](https://github.com/ClemBotProject/ClemBot/pull/685) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
