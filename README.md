@@ -26,7 +26,7 @@
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg' alt='C#' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='Python' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' alt='ts' width='50'/>
-  <img src = 'https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' alt='C++' width='50'/>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg' alt='Terraform' width='50'/>
   </details>
     <details align="center" open>
     <summary><samp> <b>⚡️ My Skills </b> </samp> </summary>
@@ -36,6 +36,7 @@
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg' alt='Git' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg' alt='Vim' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg' alt='Vue' width='50'/>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg' alt='Angular' width='50'/>
   </details>
 </p>
 <br>
