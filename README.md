@@ -75,11 +75,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#773](https://github.com/ClemBotProject/ClemBot/issues/773) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-2. 🗣 Commented on [#1](https://github.com/Jay-Madden/SockBot/issues/1) in [Jay-Madden/SockBot](https://github.com/Jay-Madden/SockBot)
-3. ❗️ Opened issue [#1](https://github.com/Jay-Madden/SockBot/issues/1) in [Jay-Madden/SockBot](https://github.com/Jay-Madden/SockBot)
-4. 🎉 Merged PR [#767](https://github.com/ClemBotProject/ClemBot/pull/767) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-5. 🗣 Commented on [#768](https://github.com/ClemBotProject/ClemBot/issues/768) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+1. 🗣 Commented on [#777](https://github.com/ClemBotProject/ClemBot/issues/777) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+2. 🗣 Commented on [#773](https://github.com/ClemBotProject/ClemBot/issues/773) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+3. 🗣 Commented on [#1](https://github.com/Jay-Madden/SockBot/issues/1) in [Jay-Madden/SockBot](https://github.com/Jay-Madden/SockBot)
+4. ❗️ Opened issue [#1](https://github.com/Jay-Madden/SockBot/issues/1) in [Jay-Madden/SockBot](https://github.com/Jay-Madden/SockBot)
+5. 🎉 Merged PR [#767](https://github.com/ClemBotProject/ClemBot/pull/767) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
