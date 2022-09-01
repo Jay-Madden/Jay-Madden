@@ -7,7 +7,7 @@
 </u> </b>
 <p>
   <samp>
-   I am Software Engineer at American Airlines by day, and an avid sleeper by night. If I'm not in the gym, I enjoy spending my free time learning and tutoring others in a wide range of programming topics including Git/Github, Async/Await, Compiler/Language design, correct software practices and more. 
+   I am Software Engineer at American Airlines by day, and an avid sleeper by night. If I'm not in the gym, I enjoy spending my free time learning and tutoring others in a wide range of programming topics including Compiler/Language design, Async/Concurrency, scalable software practices and more. 
     <br><br>
   </samp>
   <samp>
