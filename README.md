@@ -75,11 +75,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#783](https://github.com/ClemBotProject/ClemBot/pull/783) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-2. 🗣 Commented on [#784](https://github.com/ClemBotProject/ClemBot/issues/784) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-3. ❗️ Opened issue [#964](https://github.com/discord-csharp/MODiX/issues/964) in [discord-csharp/MODiX](https://github.com/discord-csharp/MODiX)
-4. ❗️ Closed issue [#963](https://github.com/discord-csharp/MODiX/issues/963) in [discord-csharp/MODiX](https://github.com/discord-csharp/MODiX)
-5. ❗️ Opened issue [#963](https://github.com/discord-csharp/MODiX/issues/963) in [discord-csharp/MODiX](https://github.com/discord-csharp/MODiX)
+1. 🗣 Commented on [#784](https://github.com/ClemBotProject/ClemBot/issues/784) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+2. 🎉 Merged PR [#783](https://github.com/ClemBotProject/ClemBot/pull/783) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+3. 🗣 Commented on [#784](https://github.com/ClemBotProject/ClemBot/issues/784) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+4. ❗️ Opened issue [#964](https://github.com/discord-csharp/MODiX/issues/964) in [discord-csharp/MODiX](https://github.com/discord-csharp/MODiX)
+5. ❗️ Closed issue [#963](https://github.com/discord-csharp/MODiX/issues/963) in [discord-csharp/MODiX](https://github.com/discord-csharp/MODiX)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
