@@ -76,11 +76,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#812](https://github.com/ClemBotProject/ClemBot/pull/812) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-2. 💪 Opened PR [#812](https://github.com/ClemBotProject/ClemBot/pull/812) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-3. 🗣 Commented on [#2555](https://github.com/npgsql/efcore.pg/issues/2555) in [npgsql/efcore.pg](https://github.com/npgsql/efcore.pg)
-4. 🎉 Merged PR [#811](https://github.com/ClemBotProject/ClemBot/pull/811) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-5. 💪 Opened PR [#811](https://github.com/ClemBotProject/ClemBot/pull/811) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+1. 🗣 Commented on [#2555](https://github.com/npgsql/efcore.pg/issues/2555) in [npgsql/efcore.pg](https://github.com/npgsql/efcore.pg)
+2. 🎉 Merged PR [#812](https://github.com/ClemBotProject/ClemBot/pull/812) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+3. 💪 Opened PR [#812](https://github.com/ClemBotProject/ClemBot/pull/812) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+4. 🗣 Commented on [#2555](https://github.com/npgsql/efcore.pg/issues/2555) in [npgsql/efcore.pg](https://github.com/npgsql/efcore.pg)
+5. 🎉 Merged PR [#811](https://github.com/ClemBotProject/ClemBot/pull/811) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
