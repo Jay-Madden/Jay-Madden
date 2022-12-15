@@ -76,11 +76,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Jay-Madden/Screen-Eval/pull/1) in [Jay-Madden/Screen-Eval](https://github.com/Jay-Madden/Screen-Eval)
-2. 🎉 Merged PR [#818](https://github.com/ClemBotProject/ClemBot/pull/818) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-3. ❌ Closed PR [#1](https://github.com/Jay-Madden/AoCLeaderboardBot/pull/1) in [Jay-Madden/AoCLeaderboardBot](https://github.com/Jay-Madden/AoCLeaderboardBot)
-4. 🎉 Merged PR [#817](https://github.com/ClemBotProject/ClemBot/pull/817) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-5. 💪 Opened PR [#817](https://github.com/ClemBotProject/ClemBot/pull/817) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+1. 🗣 Commented on [#79668](https://github.com/dotnet/runtime/issues/79668) in [dotnet/runtime](https://github.com/dotnet/runtime)
+2. ❗️ Opened issue [#79668](https://github.com/dotnet/runtime/issues/79668) in [dotnet/runtime](https://github.com/dotnet/runtime)
+3. ❌ Closed PR [#1](https://github.com/Jay-Madden/Screen-Eval/pull/1) in [Jay-Madden/Screen-Eval](https://github.com/Jay-Madden/Screen-Eval)
+4. 🎉 Merged PR [#818](https://github.com/ClemBotProject/ClemBot/pull/818) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+5. ❌ Closed PR [#1](https://github.com/Jay-Madden/AoCLeaderboardBot/pull/1) in [Jay-Madden/AoCLeaderboardBot](https://github.com/Jay-Madden/AoCLeaderboardBot)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
