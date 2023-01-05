@@ -76,11 +76,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#825](https://github.com/ClemBotProject/ClemBot/pull/825) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-2. 💪 Opened PR [#825](https://github.com/ClemBotProject/ClemBot/pull/825) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-3. 🗣 Commented on [#79668](https://github.com/dotnet/runtime/issues/79668) in [dotnet/runtime](https://github.com/dotnet/runtime)
+1. 🗣 Commented on [#79668](https://github.com/dotnet/runtime/issues/79668) in [dotnet/runtime](https://github.com/dotnet/runtime)
+2. 🎉 Merged PR [#825](https://github.com/ClemBotProject/ClemBot/pull/825) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+3. 💪 Opened PR [#825](https://github.com/ClemBotProject/ClemBot/pull/825) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
 4. 🗣 Commented on [#79668](https://github.com/dotnet/runtime/issues/79668) in [dotnet/runtime](https://github.com/dotnet/runtime)
-5. ❗️ Opened issue [#79668](https://github.com/dotnet/runtime/issues/79668) in [dotnet/runtime](https://github.com/dotnet/runtime)
+5. 🗣 Commented on [#79668](https://github.com/dotnet/runtime/issues/79668) in [dotnet/runtime](https://github.com/dotnet/runtime)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
