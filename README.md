@@ -76,11 +76,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Jay-Madden/SockBot/pull/8) in [Jay-Madden/SockBot](https://github.com/Jay-Madden/SockBot)
-2. ❗️ Closed issue [#3](https://github.com/Jay-Madden/SockBot/issues/3) in [Jay-Madden/SockBot](https://github.com/Jay-Madden/SockBot)
-3. 🎉 Merged PR [#5](https://github.com/Jay-Madden/SockBot/pull/5) in [Jay-Madden/SockBot](https://github.com/Jay-Madden/SockBot)
-4. 🗣 Commented on [#5](https://github.com/Jay-Madden/SockBot/issues/5) in [Jay-Madden/SockBot](https://github.com/Jay-Madden/SockBot)
-5. 🎉 Merged PR [#837](https://github.com/ClemBotProject/ClemBot/pull/837) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+1. 🎉 Merged PR [#838](https://github.com/ClemBotProject/ClemBot/pull/838) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+2. 💪 Opened PR [#838](https://github.com/ClemBotProject/ClemBot/pull/838) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+3. 🎉 Merged PR [#8](https://github.com/Jay-Madden/SockBot/pull/8) in [Jay-Madden/SockBot](https://github.com/Jay-Madden/SockBot)
+4. ❗️ Closed issue [#3](https://github.com/Jay-Madden/SockBot/issues/3) in [Jay-Madden/SockBot](https://github.com/Jay-Madden/SockBot)
+5. 🎉 Merged PR [#5](https://github.com/Jay-Madden/SockBot/pull/5) in [Jay-Madden/SockBot](https://github.com/Jay-Madden/SockBot)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
