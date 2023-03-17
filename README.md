@@ -76,11 +76,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1209](https://github.com/rancher-sandbox/rancher-desktop/issues/1209) in [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop)
-2. 🎉 Merged PR [#838](https://github.com/ClemBotProject/ClemBot/pull/838) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-3. 💪 Opened PR [#838](https://github.com/ClemBotProject/ClemBot/pull/838) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-4. 🎉 Merged PR [#8](https://github.com/Jay-Madden/SockBot/pull/8) in [Jay-Madden/SockBot](https://github.com/Jay-Madden/SockBot)
-5. ❗️ Closed issue [#3](https://github.com/Jay-Madden/SockBot/issues/3) in [Jay-Madden/SockBot](https://github.com/Jay-Madden/SockBot)
+1. 🎉 Merged PR [#846](https://github.com/ClemBotProject/ClemBot/pull/846) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+2. 💪 Opened PR [#846](https://github.com/ClemBotProject/ClemBot/pull/846) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+3. 🎉 Merged PR [#845](https://github.com/ClemBotProject/ClemBot/pull/845) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+4. 💪 Opened PR [#845](https://github.com/ClemBotProject/ClemBot/pull/845) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+5. 🎉 Merged PR [#844](https://github.com/ClemBotProject/ClemBot/pull/844) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
