@@ -76,11 +76,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#846](https://github.com/ClemBotProject/ClemBot/pull/846) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-2. 💪 Opened PR [#846](https://github.com/ClemBotProject/ClemBot/pull/846) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-3. 🎉 Merged PR [#845](https://github.com/ClemBotProject/ClemBot/pull/845) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-4. 💪 Opened PR [#845](https://github.com/ClemBotProject/ClemBot/pull/845) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-5. 🎉 Merged PR [#844](https://github.com/ClemBotProject/ClemBot/pull/844) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+1. ❗️ Opened issue [#131](https://github.com/K-Phoen/backstage-plugin-announcements/issues/131) in [K-Phoen/backstage-plugin-announcements](https://github.com/K-Phoen/backstage-plugin-announcements)
+2. ❗️ Opened issue [#130](https://github.com/K-Phoen/backstage-plugin-announcements/issues/130) in [K-Phoen/backstage-plugin-announcements](https://github.com/K-Phoen/backstage-plugin-announcements)
+3. 🎉 Merged PR [#846](https://github.com/ClemBotProject/ClemBot/pull/846) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+4. 💪 Opened PR [#846](https://github.com/ClemBotProject/ClemBot/pull/846) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+5. 🎉 Merged PR [#845](https://github.com/ClemBotProject/ClemBot/pull/845) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
