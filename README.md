@@ -76,11 +76,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#847](https://github.com/ClemBotProject/ClemBot/pull/847) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-2. 💪 Opened PR [#847](https://github.com/ClemBotProject/ClemBot/pull/847) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-3. 🎉 Merged PR [#2](https://github.com/Jay-Madden/Screen-Eval/pull/2) in [Jay-Madden/Screen-Eval](https://github.com/Jay-Madden/Screen-Eval)
-4. 💪 Opened PR [#2](https://github.com/Jay-Madden/Screen-Eval/pull/2) in [Jay-Madden/Screen-Eval](https://github.com/Jay-Madden/Screen-Eval)
-5. ❗️ Opened issue [#131](https://github.com/K-Phoen/backstage-plugin-announcements/issues/131) in [K-Phoen/backstage-plugin-announcements](https://github.com/K-Phoen/backstage-plugin-announcements)
+1. 🗣 Commented on [#15999](https://github.com/backstage/backstage/issues/15999) in [backstage/backstage](https://github.com/backstage/backstage)
+2. 🎉 Merged PR [#847](https://github.com/ClemBotProject/ClemBot/pull/847) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+3. 💪 Opened PR [#847](https://github.com/ClemBotProject/ClemBot/pull/847) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+4. 🎉 Merged PR [#2](https://github.com/Jay-Madden/Screen-Eval/pull/2) in [Jay-Madden/Screen-Eval](https://github.com/Jay-Madden/Screen-Eval)
+5. 💪 Opened PR [#2](https://github.com/Jay-Madden/Screen-Eval/pull/2) in [Jay-Madden/Screen-Eval](https://github.com/Jay-Madden/Screen-Eval)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
