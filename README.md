@@ -76,11 +76,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#15824](https://github.com/OpenAPITools/openapi-generator/issues/15824) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
-2. 🗣 Commented on [#15464](https://github.com/OpenAPITools/openapi-generator/issues/15464) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+1. 🗣 Commented on [#15464](https://github.com/OpenAPITools/openapi-generator/issues/15464) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+2. ❗ Opened issue [#15824](https://github.com/OpenAPITools/openapi-generator/issues/15824) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
 3. 🗣 Commented on [#15464](https://github.com/OpenAPITools/openapi-generator/issues/15464) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
-4. 🗣 Commented on [#2](https://github.com/Jay-Madden/Jay-Madden/issues/2) in [Jay-Madden/Jay-Madden](https://github.com/Jay-Madden/Jay-Madden)
-5. ❗ Opened issue [#2](https://github.com/Jay-Madden/Jay-Madden/issues/2) in [Jay-Madden/Jay-Madden](https://github.com/Jay-Madden/Jay-Madden)
+4. 🗣 Commented on [#15464](https://github.com/OpenAPITools/openapi-generator/issues/15464) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+5. 🗣 Commented on [#2](https://github.com/Jay-Madden/Jay-Madden/issues/2) in [Jay-Madden/Jay-Madden](https://github.com/Jay-Madden/Jay-Madden)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
