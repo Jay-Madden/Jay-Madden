@@ -76,11 +76,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#850](https://github.com/ClemBotProject/ClemBot/pull/850#issuecomment-1646920575) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-2. 🗣 Commented on [#15878](https://github.com/OpenAPITools/openapi-generator/pull/15878#issuecomment-1603226878) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
-3. 🗣 Commented on [#15878](https://github.com/OpenAPITools/openapi-generator/pull/15878#issuecomment-1603223249) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
-4. 🗣 Commented on [#15878](https://github.com/OpenAPITools/openapi-generator/pull/15878#issuecomment-1598048882) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
-5. 🗣 Commented on [#15878](https://github.com/OpenAPITools/openapi-generator/pull/15878#issuecomment-1598046872) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+1. 🗣 Commented on [#209](https://github.com/operator-framework/helm-operator-plugins/issues/209#issuecomment-1652510064) in [operator-framework/helm-operator-plugins](https://github.com/operator-framework/helm-operator-plugins)
+2. 🗣 Commented on [#209](https://github.com/operator-framework/helm-operator-plugins/issues/209#issuecomment-1652317573) in [operator-framework/helm-operator-plugins](https://github.com/operator-framework/helm-operator-plugins)
+3. 🗣 Commented on [#850](https://github.com/ClemBotProject/ClemBot/pull/850#issuecomment-1646920575) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+4. 🗣 Commented on [#15878](https://github.com/OpenAPITools/openapi-generator/pull/15878#issuecomment-1603226878) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+5. 🗣 Commented on [#15878](https://github.com/OpenAPITools/openapi-generator/pull/15878#issuecomment-1603223249) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
