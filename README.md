@@ -76,11 +76,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15878](https://github.com/OpenAPITools/openapi-generator/pull/15878#issuecomment-1722509368) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
-2. ❗ Opened issue [#119](https://github.com/arttor/helmify/issues/119) in [arttor/helmify](https://github.com/arttor/helmify)
-3. 🗣 Commented on [#1372](https://github.com/moq/moq/issues/1372#issuecomment-1671413455) in [moq/moq](https://github.com/moq/moq)
-4. ❗ Opened issue [#853](https://github.com/ClemBotProject/ClemBot/issues/853) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-5. 🎉 Merged PR [#852](https://github.com/ClemBotProject/ClemBot/pull/852) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+1. 🗣 Commented on [#236](https://github.com/operator-framework/helm-operator-plugins/issues/236#issuecomment-1728546043) in [operator-framework/helm-operator-plugins](https://github.com/operator-framework/helm-operator-plugins)
+2. 🗣 Commented on [#224](https://github.com/operator-framework/helm-operator-plugins/issues/224#issuecomment-1728542505) in [operator-framework/helm-operator-plugins](https://github.com/operator-framework/helm-operator-plugins)
+3. 🗣 Commented on [#15878](https://github.com/OpenAPITools/openapi-generator/pull/15878#issuecomment-1722509368) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+4. ❗ Opened issue [#119](https://github.com/arttor/helmify/issues/119) in [arttor/helmify](https://github.com/arttor/helmify)
+5. 🗣 Commented on [#1372](https://github.com/moq/moq/issues/1372#issuecomment-1671413455) in [moq/moq](https://github.com/moq/moq)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
