@@ -76,11 +76,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15878](https://github.com/OpenAPITools/openapi-generator/pull/15878) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
-2. 🗣 Commented on [#15878](https://github.com/OpenAPITools/openapi-generator/pull/15878#issuecomment-1742893397) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
-3. ❗ Opened issue [#239](https://github.com/operator-framework/helm-operator-plugins/issues/239) in [operator-framework/helm-operator-plugins](https://github.com/operator-framework/helm-operator-plugins)
-4. 🗣 Commented on [#236](https://github.com/operator-framework/helm-operator-plugins/issues/236#issuecomment-1728546043) in [operator-framework/helm-operator-plugins](https://github.com/operator-framework/helm-operator-plugins)
-5. 🗣 Commented on [#224](https://github.com/operator-framework/helm-operator-plugins/issues/224#issuecomment-1728542505) in [operator-framework/helm-operator-plugins](https://github.com/operator-framework/helm-operator-plugins)
+1. 🔒 Closed issue [#854](https://github.com/ClemBotProject/ClemBot/issues/854) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+2. 🎉 Merged PR [#856](https://github.com/ClemBotProject/ClemBot/pull/856) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+3. 🔒 Closed issue [#234](https://github.com/ClemBotProject/ClemBot/issues/234) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+4. 🔒 Closed issue [#331](https://github.com/ClemBotProject/ClemBot/issues/331) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+5. 🔒 Closed issue [#635](https://github.com/ClemBotProject/ClemBot/issues/635) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
