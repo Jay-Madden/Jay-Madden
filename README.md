@@ -76,11 +76,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#874](https://github.com/ClemBotProject/ClemBot/pull/874) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-2. 💪 Opened PR [#874](https://github.com/ClemBotProject/ClemBot/pull/874) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-3. 🎉 Merged PR [#873](https://github.com/ClemBotProject/ClemBot/pull/873) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-4. 🗣 Commented on [#873](https://github.com/ClemBotProject/ClemBot/pull/873#issuecomment-1913187952) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-5. 💪 Opened PR [#873](https://github.com/ClemBotProject/ClemBot/pull/873) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+1. 💪 Opened PR [#291](https://github.com/operator-framework/helm-operator-plugins/pull/291) in [operator-framework/helm-operator-plugins](https://github.com/operator-framework/helm-operator-plugins)
+2. 🎉 Merged PR [#874](https://github.com/ClemBotProject/ClemBot/pull/874) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+3. 💪 Opened PR [#874](https://github.com/ClemBotProject/ClemBot/pull/874) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+4. 🎉 Merged PR [#873](https://github.com/ClemBotProject/ClemBot/pull/873) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+5. 🗣 Commented on [#873](https://github.com/ClemBotProject/ClemBot/pull/873#issuecomment-1913187952) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
