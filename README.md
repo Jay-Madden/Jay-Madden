@@ -14,11 +14,6 @@
   Current lead maintainer on the ClemBot project https://github.com/ClemBotProject/ClemBot. A discord bot built to make managing any server easy and pain free. With a variety of both useful and fun commands to make a server come to life.  
   </samp>
  </p>
-<p align="center">
-  <a href="https://discord.gg/QNRbC6k">
-    <img src="https://discordapp.com/api/guilds/386585461285715968/widget.png?style=banner4" alt="Discord Banner 4" align="left"/>
-  </a>
-</p>  
 <br> 
 <p align="center">
   <details align="center" open>
