@@ -76,11 +76,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#877](https://github.com/ClemBotProject/ClemBot/pull/877) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-2. 💪 Opened PR [#877](https://github.com/ClemBotProject/ClemBot/pull/877) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-3. 🗣 Commented on [#742](https://github.com/onsi/gomega/issues/742#issuecomment-2004886969) in [onsi/gomega](https://github.com/onsi/gomega)
-4. 🎉 Merged PR [#876](https://github.com/ClemBotProject/ClemBot/pull/876) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-5. 💪 Opened PR [#876](https://github.com/ClemBotProject/ClemBot/pull/876) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+1. 💪 Opened PR [#1348](https://github.com/kedacore/keda-docs/pull/1348) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
+2. 🎉 Merged PR [#877](https://github.com/ClemBotProject/ClemBot/pull/877) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+3. 💪 Opened PR [#877](https://github.com/ClemBotProject/ClemBot/pull/877) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+4. 🗣 Commented on [#742](https://github.com/onsi/gomega/issues/742#issuecomment-2004886969) in [onsi/gomega](https://github.com/onsi/gomega)
+5. 🎉 Merged PR [#876](https://github.com/ClemBotProject/ClemBot/pull/876) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
