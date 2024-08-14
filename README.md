@@ -71,11 +71,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#878](https://github.com/ClemBotProject/ClemBot/pull/878) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-2. 💪 Opened PR [#878](https://github.com/ClemBotProject/ClemBot/pull/878) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-3. ❗ Opened issue [#522](https://github.com/spegel-org/spegel/issues/522) in [spegel-org/spegel](https://github.com/spegel-org/spegel)
-4. 🗣 Commented on [#2644](https://github.com/neovide/neovide/issues/2644#issuecomment-2158535307) in [neovide/neovide](https://github.com/neovide/neovide)
-5. ❗ Opened issue [#2644](https://github.com/neovide/neovide/issues/2644) in [neovide/neovide](https://github.com/neovide/neovide)
+1. ❗ Opened issue [#5950](https://github.com/wez/wezterm/issues/5950) in [wez/wezterm](https://github.com/wez/wezterm)
+2. 🎉 Merged PR [#878](https://github.com/ClemBotProject/ClemBot/pull/878) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+3. 💪 Opened PR [#878](https://github.com/ClemBotProject/ClemBot/pull/878) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+4. ❗ Opened issue [#522](https://github.com/spegel-org/spegel/issues/522) in [spegel-org/spegel](https://github.com/spegel-org/spegel)
+5. 🗣 Commented on [#2644](https://github.com/neovide/neovide/issues/2644#issuecomment-2158535307) in [neovide/neovide](https://github.com/neovide/neovide)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
