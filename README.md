@@ -44,8 +44,8 @@
     <a style="text-decoration: none" align="left" href="https://github.com/ClemBotProject/ClemBot">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClemBotProject&repo=ClemBot&show_owner=false" />
     </a>
-    <a style="text-decoration: none" align="left" href="https://github.com/Jay-Madden/loxide">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Madden&repo=loxide&show_owner=true" />
+    <a style="text-decoration: none" align="left" href="https://github.com/Jay-Madden/auto-fix-return.nvim">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Madden&repo=auto-fix-return.nvim&show_owner=true" />
     </a>
     <a style="text-decoration: none" align="left" href="https://github.com/Jay-Madden/hackmanapi">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Madden&repo=hackmanapi&show_owner=true" />
