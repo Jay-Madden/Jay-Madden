@@ -71,11 +71,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/5) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
-2. 🗣 Commented on [#3](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/3#issuecomment-2299516937) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
-3. ❗ Opened issue [#4](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/4) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
-4. 🚀 Published release [0.1.3](https://github.com/Jay-Madden/auto-fix-return.nvim/releases/tag/0.1.3) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
-5. 🚀 Published release [0.1.2](https://github.com/Jay-Madden/auto-fix-return.nvim/releases/tag/0.1.2) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
+1. 🗣 Commented on [#6](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/6#issuecomment-2305091853) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
+2. 🗣 Commented on [#6](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/6#issuecomment-2305013354) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
+3. ❗ Opened issue [#5](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/5) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
+4. 🗣 Commented on [#3](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/3#issuecomment-2299516937) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
+5. ❗ Opened issue [#4](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/4) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
