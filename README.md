@@ -18,10 +18,10 @@
 <p align="center">
   <details align="center" open>
     <summary><samp><b> 🚀 My Languages </b> </samp> </summary>
-  <img src = 'https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg' alt='C#' width='50'/>
-  <img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='Python' width='50'/>
-  <img src = 'https://rustacean.net/assets/cuddlyferris.png' alt='Rust' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg' alt='ts' width='50'/>
+  <img src = 'https://rustacean.net/assets/cuddlyferris.png' alt='Rust' width='50'/>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='Python' width='50'/>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg' alt='C#' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg' alt='Terraform' width='50'/>
   </details>
     <details align="center" open>
