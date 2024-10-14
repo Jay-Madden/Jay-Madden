@@ -71,11 +71,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1643](https://github.com/LadybirdBrowser/ladybird/pull/1643) in [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
-2. ❌ Closed PR [#1](https://github.com/SauleHPC/PHPC-static/pull/1) in [SauleHPC/PHPC-static](https://github.com/SauleHPC/PHPC-static)
-3. 🗣 Commented on [#83871](https://github.com/rust-lang/rust/issues/83871#issuecomment-2308036002) in [rust-lang/rust](https://github.com/rust-lang/rust)
-4. 🔒 Closed issue [#3](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/3) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
-5. 🗣 Commented on [#6](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/6#issuecomment-2306037831) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
+1. 🗣 Commented on [#2644](https://github.com/neovide/neovide/issues/2644#issuecomment-2409056829) in [neovide/neovide](https://github.com/neovide/neovide)
+2. 💪 Opened PR [#1643](https://github.com/LadybirdBrowser/ladybird/pull/1643) in [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+3. ❌ Closed PR [#1](https://github.com/SauleHPC/PHPC-static/pull/1) in [SauleHPC/PHPC-static](https://github.com/SauleHPC/PHPC-static)
+4. 🗣 Commented on [#83871](https://github.com/rust-lang/rust/issues/83871#issuecomment-2308036002) in [rust-lang/rust](https://github.com/rust-lang/rust)
+5. 🔒 Closed issue [#3](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/3) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
