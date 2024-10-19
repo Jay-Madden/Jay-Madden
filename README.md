@@ -71,11 +71,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#938](https://github.com/folke/noice.nvim/issues/938#issuecomment-2414908707) in [folke/noice.nvim](https://github.com/folke/noice.nvim)
-2. 🗣 Commented on [#2644](https://github.com/neovide/neovide/issues/2644#issuecomment-2409056829) in [neovide/neovide](https://github.com/neovide/neovide)
-3. 💪 Opened PR [#1643](https://github.com/LadybirdBrowser/ladybird/pull/1643) in [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
-4. ❌ Closed PR [#1](https://github.com/SauleHPC/PHPC-static/pull/1) in [SauleHPC/PHPC-static](https://github.com/SauleHPC/PHPC-static)
-5. 🗣 Commented on [#83871](https://github.com/rust-lang/rust/issues/83871#issuecomment-2308036002) in [rust-lang/rust](https://github.com/rust-lang/rust)
+1. 💪 Opened PR [#1487](https://github.com/kedacore/keda-docs/pull/1487) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
+2. 🗣 Commented on [#938](https://github.com/folke/noice.nvim/issues/938#issuecomment-2414908707) in [folke/noice.nvim](https://github.com/folke/noice.nvim)
+3. 🗣 Commented on [#2644](https://github.com/neovide/neovide/issues/2644#issuecomment-2409056829) in [neovide/neovide](https://github.com/neovide/neovide)
+4. 💪 Opened PR [#1643](https://github.com/LadybirdBrowser/ladybird/pull/1643) in [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+5. ❌ Closed PR [#1](https://github.com/SauleHPC/PHPC-static/pull/1) in [SauleHPC/PHPC-static](https://github.com/SauleHPC/PHPC-static)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
