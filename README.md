@@ -71,11 +71,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#879](https://github.com/ClemBotProject/ClemBot/pull/879) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-2. 💪 Opened PR [#1487](https://github.com/kedacore/keda-docs/pull/1487) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
-3. 🗣 Commented on [#938](https://github.com/folke/noice.nvim/issues/938#issuecomment-2414908707) in [folke/noice.nvim](https://github.com/folke/noice.nvim)
-4. 🗣 Commented on [#2644](https://github.com/neovide/neovide/issues/2644#issuecomment-2409056829) in [neovide/neovide](https://github.com/neovide/neovide)
-5. 💪 Opened PR [#1643](https://github.com/LadybirdBrowser/ladybird/pull/1643) in [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+1. 🎉 Merged PR [#880](https://github.com/ClemBotProject/ClemBot/pull/880) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+2. 💪 Opened PR [#880](https://github.com/ClemBotProject/ClemBot/pull/880) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+3. 🎉 Merged PR [#879](https://github.com/ClemBotProject/ClemBot/pull/879) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+4. 💪 Opened PR [#1487](https://github.com/kedacore/keda-docs/pull/1487) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
+5. 🗣 Commented on [#938](https://github.com/folke/noice.nvim/issues/938#issuecomment-2414908707) in [folke/noice.nvim](https://github.com/folke/noice.nvim)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
