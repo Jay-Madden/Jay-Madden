@@ -71,11 +71,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46581](https://github.com/rancher/rancher/issues/46581#issuecomment-2549913772) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🎉 Merged PR [#880](https://github.com/ClemBotProject/ClemBot/pull/880) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-3. 💪 Opened PR [#880](https://github.com/ClemBotProject/ClemBot/pull/880) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-4. 🎉 Merged PR [#879](https://github.com/ClemBotProject/ClemBot/pull/879) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-5. 💪 Opened PR [#1487](https://github.com/kedacore/keda-docs/pull/1487) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
+1. 🗣 Commented on [#379](https://github.com/folke/snacks.nvim/issues/379#issuecomment-2560299137) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+2. 💪 Opened PR [#381](https://github.com/folke/snacks.nvim/pull/381) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+3. 🗣 Commented on [#379](https://github.com/folke/snacks.nvim/issues/379#issuecomment-2560200936) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+4. ❗ Opened issue [#379](https://github.com/folke/snacks.nvim/issues/379) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+5. 🗣 Commented on [#283](https://github.com/folke/snacks.nvim/issues/283#issuecomment-2559981308) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
