@@ -71,11 +71,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#379](https://github.com/folke/snacks.nvim/issues/379#issuecomment-2560299137) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-2. 💪 Opened PR [#381](https://github.com/folke/snacks.nvim/pull/381) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-3. 🗣 Commented on [#379](https://github.com/folke/snacks.nvim/issues/379#issuecomment-2560200936) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-4. ❗ Opened issue [#379](https://github.com/folke/snacks.nvim/issues/379) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-5. 🗣 Commented on [#283](https://github.com/folke/snacks.nvim/issues/283#issuecomment-2559981308) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+1. 💪 Opened PR [#716](https://github.com/servo/core-foundation-rs/pull/716) in [servo/core-foundation-rs](https://github.com/servo/core-foundation-rs)
+2. 🗣 Commented on [#379](https://github.com/folke/snacks.nvim/issues/379#issuecomment-2560299137) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+3. 💪 Opened PR [#381](https://github.com/folke/snacks.nvim/pull/381) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+4. 🗣 Commented on [#379](https://github.com/folke/snacks.nvim/issues/379#issuecomment-2560200936) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+5. ❗ Opened issue [#379](https://github.com/folke/snacks.nvim/issues/379) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
