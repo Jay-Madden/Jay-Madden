@@ -71,11 +71,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#716](https://github.com/servo/core-foundation-rs/pull/716#issuecomment-2575527072) in [servo/core-foundation-rs](https://github.com/servo/core-foundation-rs)
-2. 💪 Opened PR [#6558](https://github.com/wez/wezterm/pull/6558) in [wez/wezterm](https://github.com/wez/wezterm)
-3. ❗ Opened issue [#6557](https://github.com/wez/wezterm/issues/6557) in [wez/wezterm](https://github.com/wez/wezterm)
-4. 💪 Opened PR [#716](https://github.com/servo/core-foundation-rs/pull/716) in [servo/core-foundation-rs](https://github.com/servo/core-foundation-rs)
-5. 🗣 Commented on [#379](https://github.com/folke/snacks.nvim/issues/379#issuecomment-2560299137) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+1. 🗣 Commented on [#6557](https://github.com/wez/wezterm/issues/6557#issuecomment-2599863500) in [wez/wezterm](https://github.com/wez/wezterm)
+2. 🗣 Commented on [#716](https://github.com/servo/core-foundation-rs/pull/716#issuecomment-2599765570) in [servo/core-foundation-rs](https://github.com/servo/core-foundation-rs)
+3. 💪 Opened PR [#719](https://github.com/servo/core-foundation-rs/pull/719) in [servo/core-foundation-rs](https://github.com/servo/core-foundation-rs)
+4. 🗣 Commented on [#716](https://github.com/servo/core-foundation-rs/pull/716#issuecomment-2575527072) in [servo/core-foundation-rs](https://github.com/servo/core-foundation-rs)
+5. 💪 Opened PR [#6558](https://github.com/wez/wezterm/pull/6558) in [wez/wezterm](https://github.com/wez/wezterm)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
