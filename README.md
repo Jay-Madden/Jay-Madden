@@ -71,7 +71,7 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6557](https://github.com/wez/wezterm/issues/6557#issuecomment-2599863500) in [wez/wezterm](https://github.com/wez/wezterm)
+1. ❗ Opened issue [#2415](https://github.com/hashicorp/terraform-provider-vault/issues/2415) in [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault)
 2. 🗣 Commented on [#716](https://github.com/servo/core-foundation-rs/pull/716#issuecomment-2599765570) in [servo/core-foundation-rs](https://github.com/servo/core-foundation-rs)
 3. 💪 Opened PR [#719](https://github.com/servo/core-foundation-rs/pull/719) in [servo/core-foundation-rs](https://github.com/servo/core-foundation-rs)
 4. 🗣 Commented on [#716](https://github.com/servo/core-foundation-rs/pull/716#issuecomment-2575527072) in [servo/core-foundation-rs](https://github.com/servo/core-foundation-rs)
