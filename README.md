@@ -71,10 +71,10 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6558](https://github.com/wezterm/wezterm/pull/6558#issuecomment-2708609097) in [wezterm/wezterm](https://github.com/wezterm/wezterm)
-2. 🗣 Commented on [#6558](https://github.com/wezterm/wezterm/pull/6558#issuecomment-2692383445) in [wezterm/wezterm](https://github.com/wezterm/wezterm)
-3. 🗣 Commented on [#6558](https://github.com/wezterm/wezterm/pull/6558#issuecomment-2692368859) in [wezterm/wezterm](https://github.com/wezterm/wezterm)
-4. ❗ Opened issue [#2415](https://github.com/hashicorp/terraform-provider-vault/issues/2415) in [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault)
+1. ❗ Opened issue [#6660](https://github.com/kedacore/keda/issues/6660) in [kedacore/keda](https://github.com/kedacore/keda)
+2. 🗣 Commented on [#6558](https://github.com/wezterm/wezterm/pull/6558#issuecomment-2708609097) in [wezterm/wezterm](https://github.com/wezterm/wezterm)
+3. 🗣 Commented on [#6558](https://github.com/wezterm/wezterm/pull/6558#issuecomment-2692383445) in [wezterm/wezterm](https://github.com/wezterm/wezterm)
+4. 🗣 Commented on [#6558](https://github.com/wezterm/wezterm/pull/6558#issuecomment-2692368859) in [wezterm/wezterm](https://github.com/wezterm/wezterm)
 5. 💪 Opened PR [#6558](https://github.com/wez/wezterm/pull/6558) in [wez/wezterm](https://github.com/wez/wezterm)
 <!--END_SECTION:activity-->   
 
