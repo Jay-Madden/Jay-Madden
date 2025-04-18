@@ -10,9 +10,6 @@
    I am Software Engineer by day, and an avid sleeper by night. Working on Developer Acceleration platforms via Kubernetes at @AA. If I'm not in the gym, I enjoy spending my free time learning and teaching others in a wide range of programming topics including compiler/language design, async/concurrency, distributed systems, scalable software practices and more. 
     <br><br>
   </samp>
-  <samp>
-  Current lead maintainer on the ClemBot project https://github.com/ClemBotProject/ClemBot. A discord bot built to make managing any server easy and pain free. With a variety of both useful and fun commands to make a server come to life.  
-  </samp>
  </p>
 <br> 
 <p align="center">
