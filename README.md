@@ -68,7 +68,7 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124154](https://github.com/kubernetes/kubernetes/issues/124154#issuecomment-2787368974) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. ❗ Opened issue [#1323](https://github.com/lewis6991/gitsigns.nvim/issues/1323) in [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)
 2. 🗣 Commented on [#126998](https://github.com/kubernetes/kubernetes/pull/126998#issuecomment-2787329314) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 3. 💪 Opened PR [#50344](https://github.com/kubernetes/website/pull/50344) in [kubernetes/website](https://github.com/kubernetes/website)
 4. 🗣 Commented on [#6660](https://github.com/kedacore/keda/issues/6660#issuecomment-2766438899) in [kedacore/keda](https://github.com/kedacore/keda)
