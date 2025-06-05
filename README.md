@@ -68,11 +68,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/samiulsami/cmp-go-deep/pull/7) in [samiulsami/cmp-go-deep](https://github.com/samiulsami/cmp-go-deep)
-2. ❌ Closed PR [#4](https://github.com/Jay-Madden/nvim/pull/4) in [Jay-Madden/nvim](https://github.com/Jay-Madden/nvim)
-3. 🗣 Commented on [#4](https://github.com/Jay-Madden/nvim/pull/4#issuecomment-2913537644) in [Jay-Madden/nvim](https://github.com/Jay-Madden/nvim)
-4. ❗ Opened issue [#3](https://github.com/Jay-Madden/nvim/issues/3) in [Jay-Madden/nvim](https://github.com/Jay-Madden/nvim)
-5. 🗣 Commented on [#9](https://github.com/Jay-Madden/auto-fix-return.nvim/pull/9#issuecomment-2907971425) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
+1. 🗣 Commented on [#5696](https://github.com/kubernetes-sigs/kustomize/issues/5696#issuecomment-2937057580) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+2. 💪 Opened PR [#7](https://github.com/samiulsami/cmp-go-deep/pull/7) in [samiulsami/cmp-go-deep](https://github.com/samiulsami/cmp-go-deep)
+3. ❌ Closed PR [#4](https://github.com/Jay-Madden/nvim/pull/4) in [Jay-Madden/nvim](https://github.com/Jay-Madden/nvim)
+4. 🗣 Commented on [#4](https://github.com/Jay-Madden/nvim/pull/4#issuecomment-2913537644) in [Jay-Madden/nvim](https://github.com/Jay-Madden/nvim)
+5. ❗ Opened issue [#3](https://github.com/Jay-Madden/nvim/issues/3) in [Jay-Madden/nvim](https://github.com/Jay-Madden/nvim)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
