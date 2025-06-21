@@ -38,11 +38,11 @@
 <details align="center" open>
     <summary> <b> <samp>🔨 Current projects </samp></b></summary>
   <p>
-    <a style="text-decoration: none" align="left" href="https://github.com/ClemBotProject/ClemBot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClemBotProject&repo=ClemBot&show_owner=false" />
-    </a>
     <a style="text-decoration: none" align="left" href="https://github.com/Jay-Madden/auto-fix-return.nvim">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Madden&repo=auto-fix-return.nvim&show_owner=true" />
+    </a>
+    <a style="text-decoration: none" align="left" href="https://github.com/ClemBotProject/ClemBot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClemBotProject&repo=ClemBot&show_owner=false" />
     </a>
     <a style="text-decoration: none" align="left" href="https://github.com/Jay-Madden/aeris">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Madden&repo=aeris&show_owner=true" />
