@@ -68,11 +68,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/5#issuecomment-2993716167) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
-2. 🔒 Closed issue [#5](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/5) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
-3. 🚀 Published release [v0.2.0](https://github.com/Jay-Madden/auto-fix-return.nvim/releases/tag/v0.2.0) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
-4. 🗣 Commented on [#6](https://github.com/Jay-Madden/nvim/pull/6#issuecomment-2972896717) in [Jay-Madden/nvim](https://github.com/Jay-Madden/nvim)
-5. 🗣 Commented on [#6](https://github.com/Jay-Madden/nvim/pull/6#issuecomment-2972891738) in [Jay-Madden/nvim](https://github.com/Jay-Madden/nvim)
+1. 🚀 Published release [v0.2.1](https://github.com/Jay-Madden/auto-fix-return.nvim/releases/tag/v0.2.1) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
+2. 🗣 Commented on [#5](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/5#issuecomment-2993800779) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
+3. ❗ Opened issue [#167](https://github.com/tree-sitter/tree-sitter-go/issues/167) in [tree-sitter/tree-sitter-go](https://github.com/tree-sitter/tree-sitter-go)
+4. 🗣 Commented on [#5](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/5#issuecomment-2993716167) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
+5. 🔒 Closed issue [#5](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/5) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
