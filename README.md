@@ -68,9 +68,9 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/12#issuecomment-3100717108) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
-2. 🗣 Commented on [#4483](https://github.com/tModLoader/tModLoader/issues/4483#issuecomment-3016264695) in [tModLoader/tModLoader](https://github.com/tModLoader/tModLoader)
-3. 🗣 Commented on [#11](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/11#issuecomment-3004910292) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
+1. ❗ Opened issue [#13](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/13) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
+2. 🗣 Commented on [#12](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/12#issuecomment-3100717108) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
+3. 🗣 Commented on [#4483](https://github.com/tModLoader/tModLoader/issues/4483#issuecomment-3016264695) in [tModLoader/tModLoader](https://github.com/tModLoader/tModLoader)
 4. 🗣 Commented on [#11](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/11#issuecomment-3004899388) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
 5. 🗣 Commented on [#10](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/10#issuecomment-2994658408) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
 <!--END_SECTION:activity-->   
