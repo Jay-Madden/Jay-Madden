@@ -68,11 +68,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#252](https://github.com/y3owk1n/undo-glow.nvim/pull/252) in [y3owk1n/undo-glow.nvim](https://github.com/y3owk1n/undo-glow.nvim)
-2. 🚀 Published release [v0.2.2](https://github.com/Jay-Madden/auto-fix-return.nvim/releases/tag/v0.2.2) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
-3. 🔒 Closed issue [#16](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/16) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
-4. 🎉 Merged PR [#17](https://github.com/Jay-Madden/auto-fix-return.nvim/pull/17) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
-5. 🗣 Commented on [#17](https://github.com/Jay-Madden/auto-fix-return.nvim/pull/17#issuecomment-3172257252) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
+1. 💪 Opened PR [#734](https://github.com/charmbracelet/soft-serve/pull/734) in [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
+2. 💪 Opened PR [#252](https://github.com/y3owk1n/undo-glow.nvim/pull/252) in [y3owk1n/undo-glow.nvim](https://github.com/y3owk1n/undo-glow.nvim)
+3. 🚀 Published release [v0.2.2](https://github.com/Jay-Madden/auto-fix-return.nvim/releases/tag/v0.2.2) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
+4. 🔒 Closed issue [#16](https://github.com/Jay-Madden/auto-fix-return.nvim/issues/16) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
+5. 🎉 Merged PR [#17](https://github.com/Jay-Madden/auto-fix-return.nvim/pull/17) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
