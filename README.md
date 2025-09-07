@@ -68,11 +68,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#881](https://github.com/ClemBotProject/ClemBot/pull/881) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-2. 💪 Opened PR [#881](https://github.com/ClemBotProject/ClemBot/pull/881) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-3. 🗣 Commented on [#734](https://github.com/charmbracelet/soft-serve/pull/734#issuecomment-3217147356) in [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
-4. 🗣 Commented on [#734](https://github.com/charmbracelet/soft-serve/pull/734#issuecomment-3215899854) in [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
-5. 💪 Opened PR [#734](https://github.com/charmbracelet/soft-serve/pull/734) in [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
+1. 🗣 Commented on [#31082](https://github.com/helm/helm/issues/31082#issuecomment-3262164708) in [helm/helm](https://github.com/helm/helm)
+2. 🎉 Merged PR [#881](https://github.com/ClemBotProject/ClemBot/pull/881) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+3. 💪 Opened PR [#881](https://github.com/ClemBotProject/ClemBot/pull/881) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+4. 🗣 Commented on [#734](https://github.com/charmbracelet/soft-serve/pull/734#issuecomment-3217147356) in [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
+5. 🗣 Commented on [#734](https://github.com/charmbracelet/soft-serve/pull/734#issuecomment-3215899854) in [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
