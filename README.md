@@ -7,7 +7,7 @@
 </u> </b>
 <p>
   <samp>
-   I am a Software Engineer @Nvidia by day, and an avid sleeper by night. Working on Cloud Acceleration platforms via Kubernetes. If I'm not in the gym, I enjoy spending my free time learning and teaching others in a wide range of programming topics including compiler/language design, async/concurrency, distributed systems, scalable software practices and more. All views my own.
+   I am a Software Engineer @Nvidia by day, and an avid sleeper by night. Working on GPU Cloud platforms via Kubernetes. If I'm not in the gym, I enjoy spending my free time learning and teaching others in a wide range of programming topics including compiler/language design, async/concurrency, distributed systems, scalable software practices and more. All views my own.
     <br><br>
   </samp>
  </p>
