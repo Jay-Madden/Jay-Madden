@@ -68,7 +68,7 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31082](https://github.com/helm/helm/issues/31082#issuecomment-3262164708) in [helm/helm](https://github.com/helm/helm)
+1. ❗ Opened issue [#587](https://github.com/zbirenbaum/copilot.lua/issues/587) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
 2. 🎉 Merged PR [#881](https://github.com/ClemBotProject/ClemBot/pull/881) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
 3. 💪 Opened PR [#881](https://github.com/ClemBotProject/ClemBot/pull/881) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
 4. 🗣 Commented on [#734](https://github.com/charmbracelet/soft-serve/pull/734#issuecomment-3217147356) in [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
