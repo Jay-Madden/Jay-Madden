@@ -68,9 +68,9 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#587](https://github.com/zbirenbaum/copilot.lua/issues/587#issuecomment-3390571389) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-2. ❗ Opened issue [#587](https://github.com/zbirenbaum/copilot.lua/issues/587) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-3. 💪 Opened PR [#881](https://github.com/ClemBotProject/ClemBot/pull/881) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+1. 🗣 Commented on [#1632](https://github.com/eza-community/eza/issues/1632#issuecomment-3398806433) in [eza-community/eza](https://github.com/eza-community/eza)
+2. 🗣 Commented on [#587](https://github.com/zbirenbaum/copilot.lua/issues/587#issuecomment-3390571389) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+3. ❗ Opened issue [#587](https://github.com/zbirenbaum/copilot.lua/issues/587) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
 4. 🗣 Commented on [#734](https://github.com/charmbracelet/soft-serve/pull/734#issuecomment-3217147356) in [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
 5. 🗣 Commented on [#734](https://github.com/charmbracelet/soft-serve/pull/734#issuecomment-3215899854) in [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
 <!--END_SECTION:activity-->   
