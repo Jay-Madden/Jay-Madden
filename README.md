@@ -68,11 +68,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1632](https://github.com/eza-community/eza/issues/1632#issuecomment-3398806433) in [eza-community/eza](https://github.com/eza-community/eza)
-2. 🗣 Commented on [#587](https://github.com/zbirenbaum/copilot.lua/issues/587#issuecomment-3390571389) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-3. ❗ Opened issue [#587](https://github.com/zbirenbaum/copilot.lua/issues/587) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-4. 🗣 Commented on [#734](https://github.com/charmbracelet/soft-serve/pull/734#issuecomment-3217147356) in [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
-5. 🗣 Commented on [#734](https://github.com/charmbracelet/soft-serve/pull/734#issuecomment-3215899854) in [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
+1. 🗣 Commented on [#80](https://github.com/NVIDIA/NVSentinel/pull/80#issuecomment-3416810480) in [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel)
+2. 🗣 Commented on [#80](https://github.com/NVIDIA/NVSentinel/pull/80#issuecomment-3416797105) in [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel)
+3. 🗣 Commented on [#591](https://github.com/zbirenbaum/copilot.lua/issues/591#issuecomment-3416330099) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+4. 🗣 Commented on [#1632](https://github.com/eza-community/eza/issues/1632#issuecomment-3398806433) in [eza-community/eza](https://github.com/eza-community/eza)
+5. 🗣 Commented on [#587](https://github.com/zbirenbaum/copilot.lua/issues/587#issuecomment-3390571389) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
