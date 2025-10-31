@@ -68,11 +68,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1.  Labeled issue [#107](https://github.com/NVIDIA/NVSentinel/issues/107) in [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel)
-2. ❗ Opened issue [#107](https://github.com/NVIDIA/NVSentinel/issues/107) in [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel)
-3. 🗣 Commented on [#80](https://github.com/NVIDIA/NVSentinel/pull/80#issuecomment-3416810480) in [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel)
-4. 🗣 Commented on [#80](https://github.com/NVIDIA/NVSentinel/pull/80#issuecomment-3416797105) in [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel)
-5. 🗣 Commented on [#591](https://github.com/zbirenbaum/copilot.lua/issues/591#issuecomment-3416330099) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+1. ❌ Closed PR [#6](undefined) in [Jay-Madden/nvim](https://github.com/Jay-Madden/nvim)
+2.  Labeled issue [#107](https://github.com/NVIDIA/NVSentinel/issues/107) in [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel)
+3. ❗ Opened issue [#107](https://github.com/NVIDIA/NVSentinel/issues/107) in [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel)
+4. 🗣 Commented on [#80](https://github.com/NVIDIA/NVSentinel/pull/80#issuecomment-3416810480) in [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel)
+5. 🗣 Commented on [#80](https://github.com/NVIDIA/NVSentinel/pull/80#issuecomment-3416797105) in [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
