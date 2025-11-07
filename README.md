@@ -68,11 +68,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2979](undefined) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
-2. 🗣 Commented on [#69](https://github.com/nushell/reedline/issues/69#issuecomment-3488937563) in [nushell/reedline](https://github.com/nushell/reedline)
-3. 💪 Opened PR [#761](undefined) in [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
-4. ❌ Closed PR [#6](undefined) in [Jay-Madden/nvim](https://github.com/Jay-Madden/nvim)
-5.  Labeled issue [#107](https://github.com/NVIDIA/NVSentinel/issues/107) in [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel)
+1. 🗣 Commented on [#2979](https://github.com/atuinsh/atuin/pull/2979#issuecomment-3498446952) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
+2. 💪 Opened PR [#2979](undefined) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
+3. 🗣 Commented on [#69](https://github.com/nushell/reedline/issues/69#issuecomment-3488937563) in [nushell/reedline](https://github.com/nushell/reedline)
+4. 💪 Opened PR [#761](undefined) in [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
+5. ❌ Closed PR [#6](undefined) in [Jay-Madden/nvim](https://github.com/Jay-Madden/nvim)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
