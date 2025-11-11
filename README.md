@@ -27,9 +27,8 @@
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg' alt='Docker' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg' alt='AWS' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg' alt='Azure' width='50'/>
-  <img src = 'https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg' alt='Vim' width='50'/>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg' alt='Vim' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='Vue' width='50'/>
-  <img src = 'https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg' alt='Angular' width='50'/>
   </details>
 </p>
 <br>
