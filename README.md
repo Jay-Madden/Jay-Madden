@@ -67,11 +67,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#882](undefined) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-2. 🗣 Commented on [#69](https://github.com/nushell/reedline/issues/69#issuecomment-3503339081) in [nushell/reedline](https://github.com/nushell/reedline)
-3. 🗣 Commented on [#2979](https://github.com/atuinsh/atuin/pull/2979#issuecomment-3500355286) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
-4. 🗣 Commented on [#2979](https://github.com/atuinsh/atuin/pull/2979#issuecomment-3498446952) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
-5. 💪 Opened PR [#2979](undefined) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
+1. 🗣 Commented on [#691](https://github.com/astral-sh/ty/issues/691#issuecomment-3598922969) in [astral-sh/ty](https://github.com/astral-sh/ty)
+2. 💪 Opened PR [#882](undefined) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
+3. 🗣 Commented on [#69](https://github.com/nushell/reedline/issues/69#issuecomment-3503339081) in [nushell/reedline](https://github.com/nushell/reedline)
+4. 🗣 Commented on [#2979](https://github.com/atuinsh/atuin/pull/2979#issuecomment-3500355286) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
+5. 🗣 Commented on [#2979](https://github.com/atuinsh/atuin/pull/2979#issuecomment-3498446952) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
