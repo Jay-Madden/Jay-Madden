@@ -67,9 +67,9 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#691](https://github.com/astral-sh/ty/issues/691#issuecomment-3598922969) in [astral-sh/ty](https://github.com/astral-sh/ty)
-2. 💪 Opened PR [#882](undefined) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
-3. 🗣 Commented on [#69](https://github.com/nushell/reedline/issues/69#issuecomment-3503339081) in [nushell/reedline](https://github.com/nushell/reedline)
+1. 🚀 Published release [v0.3.0](https://github.com/Jay-Madden/auto-fix-return.nvim/releases/tag/v0.3.0) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
+2. 🗣 Commented on [#691](https://github.com/astral-sh/ty/issues/691#issuecomment-3598922969) in [astral-sh/ty](https://github.com/astral-sh/ty)
+3. 💪 Opened PR [#882](undefined) in [ClemBotProject/ClemBot](https://github.com/ClemBotProject/ClemBot)
 4. 🗣 Commented on [#2979](https://github.com/atuinsh/atuin/pull/2979#issuecomment-3500355286) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
 5. 🗣 Commented on [#2979](https://github.com/atuinsh/atuin/pull/2979#issuecomment-3498446952) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
 <!--END_SECTION:activity-->   
