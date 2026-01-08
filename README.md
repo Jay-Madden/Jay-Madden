@@ -67,11 +67,11 @@
  ## Current Activity
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#691](https://github.com/astral-sh/ty/issues/691#issuecomment-3708462268) in [astral-sh/ty](https://github.com/astral-sh/ty)
-2. 🗣 Commented on [#691](https://github.com/astral-sh/ty/issues/691#issuecomment-3708188152) in [astral-sh/ty](https://github.com/astral-sh/ty)
-3. 🚀 Published release [v0.4.0](https://github.com/Jay-Madden/auto-fix-return.nvim/releases/tag/v0.4.0) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
-4. 🚀 Published release [v0.3.0](https://github.com/Jay-Madden/auto-fix-return.nvim/releases/tag/v0.3.0) in [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim)
-5. 🗣 Commented on [#2979](https://github.com/atuinsh/atuin/pull/2979#issuecomment-3498446952) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
+1. 🗣 Commented on [#168](https://github.com/rachartier/tiny-inline-diagnostic.nvim/issues/168#issuecomment-3721218375) in [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim)
+2. 🔒 Closed issue [#168](https://github.com/rachartier/tiny-inline-diagnostic.nvim/issues/168) in [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim)
+3. ❗ Opened issue [#168](https://github.com/rachartier/tiny-inline-diagnostic.nvim/issues/168) in [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim)
+4. 🗣 Commented on [#691](https://github.com/astral-sh/ty/issues/691#issuecomment-3708462268) in [astral-sh/ty](https://github.com/astral-sh/ty)
+5. 🗣 Commented on [#691](https://github.com/astral-sh/ty/issues/691#issuecomment-3708188152) in [astral-sh/ty](https://github.com/astral-sh/ty)
 <!--END_SECTION:activity-->   
 
 <!--**Jay-Madden/Jay-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
