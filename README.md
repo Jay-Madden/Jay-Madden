@@ -31,37 +31,6 @@
   </details>
 </p>
 <br>
-<br>
-<br>
-<details align="center" open>
-    <summary> <b> <samp>🔨 Current projects </samp></b></summary>
-  <p>
-    <a style="text-decoration: none" align="left" href="https://github.com/Jay-Madden/auto-fix-return.nvim">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Madden&repo=auto-fix-return.nvim&show_owner=true" />
-    </a>
-    <a style="text-decoration: none" align="left" href="https://github.com/ClemBotProject/ClemBot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClemBotProject&repo=ClemBot&show_owner=false" />
-    </a>
-    <a style="text-decoration: none" align="left" href="https://github.com/Jay-Madden/aeris">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Madden&repo=aeris&show_owner=true" />
-    </a>
-    <a style="text-decoration: none" align="left" href="https://github.com/Jay-Madden/SharpLox">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Madden&repo=SharpLox&show_owner=true" />
-    </a>
-  </p>
-</details>
-<details align="center">
-  <summary> <b> <samp>🧮 Github Stats </samp></b></summary>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Jay-Madden&count_private=true&show_icons=true&include_all_commits=true">
-   </p>
- </details>
- <details align="center">
-  <summary> <b> <samp>🗣 Language Stats </samp></b></summary>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Madden&hide=TeX&layout=compact">
-   </p>
- </details>
  
  ## Current Activity
  
